@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC103DD61F42CF5E00526E4E"
-               BuildableName = "TSAlertActionViewDemo.app"
-               BlueprintName = "TSAlertActionViewDemo"
-               ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+               BlueprintIdentifier = "2CFA01181F42FB11005F6041"
+               BuildableName = "TSActionAlertView.app"
+               BlueprintName = "TSActionAlertView"
+               ReferencedContainer = "container:TSActionAlertView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC103DEF1F42CF5E00526E4E"
-               BuildableName = "TSAlertActionViewDemoTests.xctest"
-               BlueprintName = "TSAlertActionViewDemoTests"
-               ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+               BlueprintIdentifier = "2CFA012C1F42FB11005F6041"
+               BuildableName = "TSActionAlertViewTests.xctest"
+               BlueprintName = "TSActionAlertViewTests"
+               ReferencedContainer = "container:TSActionAlertView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC103DFA1F42CF5E00526E4E"
-               BuildableName = "TSAlertActionViewDemoUITests.xctest"
-               BlueprintName = "TSAlertActionViewDemoUITests"
-               ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+               BlueprintIdentifier = "2CFA01371F42FB11005F6041"
+               BuildableName = "TSActionAlertViewUITests.xctest"
+               BlueprintName = "TSActionAlertViewUITests"
+               ReferencedContainer = "container:TSActionAlertView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC103DD61F42CF5E00526E4E"
-            BuildableName = "TSAlertActionViewDemo.app"
-            BlueprintName = "TSAlertActionViewDemo"
-            ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+            BlueprintIdentifier = "2CFA01181F42FB11005F6041"
+            BuildableName = "TSActionAlertView.app"
+            BlueprintName = "TSActionAlertView"
+            ReferencedContainer = "container:TSActionAlertView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC103DD61F42CF5E00526E4E"
-            BuildableName = "TSAlertActionViewDemo.app"
-            BlueprintName = "TSAlertActionViewDemo"
-            ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+            BlueprintIdentifier = "2CFA01181F42FB11005F6041"
+            BuildableName = "TSActionAlertView.app"
+            BlueprintName = "TSActionAlertView"
+            ReferencedContainer = "container:TSActionAlertView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FC103DD61F42CF5E00526E4E"
-            BuildableName = "TSAlertActionViewDemo.app"
-            BlueprintName = "TSAlertActionViewDemo"
-            ReferencedContainer = "container:TSAlertActionViewDemo.xcodeproj">
+            BlueprintIdentifier = "2CFA01181F42FB11005F6041"
+            BuildableName = "TSActionAlertView.app"
+            BlueprintName = "TSActionAlertView"
+            ReferencedContainer = "container:TSActionAlertView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

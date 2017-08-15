@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TSAlertActionViewDemo.xcscheme</key>
+		<key>TSActionAlertView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FC103DD61F42CF5E00526E4E</key>
+		<key>2CFA01181F42FB11005F6041</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FC103DEF1F42CF5E00526E4E</key>
+		<key>2CFA012C1F42FB11005F6041</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FC103DFA1F42CF5E00526E4E</key>
+		<key>2CFA01371F42FB11005F6041</key>
 		<dict>
 			<key>primary</key>
 			<true/>
